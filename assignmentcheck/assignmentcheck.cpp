@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <math.h>
 #define TOS 10
-#define MAXNOSRC 4
+#define MAXNOSRC 3
 #define MAXQSIZE 50
 #define MAXNOE 10
 double arrst[MAXNOSRC];
