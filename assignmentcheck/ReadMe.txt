@@ -1,5 +1,5 @@
 ========================================================================
-    CONSOLE APPLICATION : assignmentcheck Project Overview
+   Packet Assignment Simulator : assignmentcheck Project Overview
 ========================================================================
 
 AppWizard has created this assignmentcheck application for you.
@@ -34,7 +34,6 @@ StdAfx.h, StdAfx.cpp
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
+This project simulate packet generation form multipul resources, packet submision with FIFO
 
 /////////////////////////////////////////////////////////////////////////////
