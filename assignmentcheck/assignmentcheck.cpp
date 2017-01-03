@@ -180,9 +180,6 @@ int main(void)
 	fclose(out_avgdelay);
 	fclose(out_plr);
 	fclose(out_tput);
-	system("wgnuplot simplot_tdelay.plt"); // gnu plot file
-	system("wgnuplot simplot_avgdelay.plt");
-	system("wgnuplot simplot_plr.plt");
-	system("wgnuplot simplot_tput.plt");
+	
 	return 0;
 } //end main
